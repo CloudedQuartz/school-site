@@ -1,0 +1,37 @@
+body{
+	background-image: url("img/school-building.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	font-family: sans-serif;
+}
+
+.defaultContainer{
+	margin: auto;
+	width: 80%;
+	background-color: white;
+	color: black;
+	border-radius: 24px;
+	padding: 24px;
+}
+
+.center{
+	text-align: center;
+	margin: auto;
+}
+
+header{
+	background-color: blue;
+	text-align: center;
+}
+
+footer{
+	background-color: white;
+	text-align: center;
+	color: grey;
+	vertical-align: baseline ;
+}
+
+button{
+	margin: 8px;
+}
